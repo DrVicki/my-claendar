@@ -31,7 +31,7 @@ Below is a step-by-step coding tutorial.
 
 ## Code the Calendar
 
-1. Set up HTML
+1. **Set up HTML**
 	- Add the boiler plate of the `html` document
 	- inside `body` create container `div`. 
 	- in the `div` container create an `h2` tag to display the current month and year. 
@@ -62,7 +62,7 @@ Below is a step-by-step coding tutorial.
 </html>
 ```
 
-2. Add JavaScript
+2. **Add JavaScript**
 
 - All the data you are going to display will come from the javascript.
 
@@ -131,11 +131,11 @@ function createCalendar(year, month) {
   createCalendar(currentYear, currentMonth)
   ```
 
-  3. Style the Calendar
+  3. **Style the Calendar**
 
-Now the fun and easy part; add styling with CSS. 
+	Now the fun and easy part; add styling with CSS. 
 
-- You can refer to the below `css` styles or you can create your own styles.
+	- You can refer to the below `css` styles or you can create your own styles.
 
 ```
 // styles.css
