@@ -9,3 +9,7 @@ This workshop is for SWD101 Week 1 Lesson Decision-Making with JavaScript.
 ## [Instructions Step-By-Step](https://github.com/DrVicki/my-claendar/blob/main/instructions.md)
 
 ## Workshop: [Recording of javaScript Portion Only](https://vimeo.com/824157136?share=copy)
+
+### Completed App
+
+![](https://github.com/DrVicki/my-claendar/blob/main/images/finished-calendar.png)
